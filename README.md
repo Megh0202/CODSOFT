@@ -23,7 +23,7 @@ The program also keeps track of scores and allows users to play multiple rounds.
 - Displays the winner and updates scores after each round
 
 ### How to Use:
-1. Run the `rockpaperscicors.py` script.
+1. Run the `rockpaperscissors.py` script.
 2. Choose either "rock", "paper", or "scissors".
 3. The computer will also make a choice.
 4. The winner will be displayed, along with the updated scores.
