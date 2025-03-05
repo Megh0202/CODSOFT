@@ -119,7 +119,7 @@ class ContactBook:
 
     def exit_program(self):
         """Exit the program."""
-        print("Exiting... Goodbye!")
+        print("Exiting...")
         exit()
 # Run the contact book application
 if __name__ == "__main__":
