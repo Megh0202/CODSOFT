@@ -1,5 +1,4 @@
 import random
-
 def get_computer_choice():
     """Generate and return the computer choice."""
     choices = ['rock', 'paper', 'scissors']
